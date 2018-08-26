@@ -1,0 +1,15 @@
+img {
+  width: 250px;
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
+
+body {
+  margin: 40px 50px 50px;
+  font-family: Times;
+}
+
+.special {
+  font-weight: bold;
+  color: #20B2AA;
+}
