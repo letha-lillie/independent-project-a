@@ -13,3 +13,7 @@ body {
   font-weight: bold;
   color: #20B2AA;
 }
+
+p {
+  padding-bottom: 15px;
+}
