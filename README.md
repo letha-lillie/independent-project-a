@@ -10,11 +10,11 @@ _This project is designed to practice the technologies we have learned during ou
 
 ## Technologies Used
 
-* _HTML
-* _CSS
-* _Bootstrap
-* _Git & Github
-* _Markdown
+* HTML
+* CSS
+* Bootstrap
+* Git & Github
+* Markdown
 
 ### License
 
