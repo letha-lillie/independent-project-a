@@ -17,3 +17,17 @@ body {
 p {
   padding-bottom: 15px;
 }
+
+h3 {
+  font-style: italic;
+}
+
+ol {
+ line-height: 2;
+}
+
+div.closing p {
+  padding-top: 70px;
+  font-style: italic;
+  text-align: center;
+}
